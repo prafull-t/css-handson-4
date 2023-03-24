@@ -17,11 +17,13 @@
     border-radius: 15px;
     background-color: rgb(130, 175, 206);
     text-align: center;
-    width: 60%;
+    width: 50%;
     padding: 5px;
     margin: 10px;
     position: relative;
     left: 20%;
+    padding-left: 100px;
+    list-style-position: ;
 }
 
 .parent1
